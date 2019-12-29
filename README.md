@@ -33,10 +33,10 @@ UseCase:
 section are in the proper format. -> comment.feature is used to get all the comment and validate the email formate.
 
 karate-config.js
-We can pass the environment to execute the test cases by using  the below and also you can change the base url of the application in the config.
--Denv=dev
--Denv=pre-prod
--Denv=prod
+We can pass the environment to execute the test cases by using  the below and also you can change the base url of the application in the config.</br>
+-Denv=dev </br>
+-Denv=pre-prod </br>
+-Denv=prod </br>
 
 TestRunner.java
 Runner file to execute the Feature file and used generate the report.
