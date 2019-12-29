@@ -37,3 +37,9 @@ We can pass the environment to execute the test cases by using  the below and al
 -Denv=dev
 -Denv=pre-prod
 -Denv=prod
+
+TestRunner.java
+Runner file to execute the Feature file and used generate the report.
+
+Report:
+Cucumber html report will be generated in the target folder
